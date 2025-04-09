@@ -1,1 +1,55 @@
-Privacy Policy for Arbitrage Scanner
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - Arbitrage Scanner</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    h2 {
+      color: #34495e;
+      margin-top: 30px;
+    }
+    a {
+      color: #2980b9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Last updated:</strong> April 9, 2025</p>
+
+  <p>Independent developer built the <strong>Arbitrage Scanner</strong> app as a free application. This service is provided at no cost and is intended for use as is.</p>
+
+  <h2>Data Collection and Usage</h2>
+  <p>This app <strong>does not collect, store, or share any personal data</strong> from users.</p>
+  <p>It does not request access to sensitive permissions such as location, contacts, or camera.</p>
+  <p>The app uses only publicly available market data from cryptocurrency exchanges to help users view price differences between trading platforms. No user-specific behavior is tracked.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>This app may connect to third-party APIs (e.g., cryptocurrency exchanges) for data retrieval purposes only. No personal information is sent to or received from these services.</p>
+
+  <h2>Security</h2>
+  <p>We value your trust. Even though we do not collect data, we strive to use commercially acceptable means to protect any information handled by the app.</p>
+
+  <h2>Children’s Privacy</h2>
+  <p>This app does <strong>not target children under the age of 13</strong>, and it does not knowingly collect any information from anyone under the age of 13.</p>
+
+  <h2>Changes to This Privacy Policy</h2>
+  <p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at:</p>
+  <p><strong>Email:</strong> eduard.3@gmail.com</p>
+</body>
+</html>
+
