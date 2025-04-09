@@ -36,7 +36,7 @@
   <p>The app uses only publicly available market data from cryptocurrency exchanges to help users view price differences between trading platforms. No user-specific behavior is tracked.</p>
 
   <h2>Third-Party Services</h2>
-  <p>This app may connect to third-party APIs (e.g., cryptocurrency exchanges) for data retrieval purposes only. No personal information is sent to or received from these services.</p>
+  <p>This app may connect to third-party APIs (cryptocurrency exchanges) for data retrieval purposes only. No personal information is sent to or received from these services.</p>
 
   <h2>Security</h2>
   <p>We value your trust. Even though we do not collect data, we strive to use commercially acceptable means to protect any information handled by the app.</p>
