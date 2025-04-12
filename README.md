@@ -28,7 +28,7 @@
   <h1>Privacy Policy</h1>
   <p><strong>Last updated:</strong> April 9, 2025</p>
 
-  <p>Independent developer built the <strong>Arbitrage Scanner</strong> app as a free application. This service is provided at no cost and is intended for use as is.</p>
+  <p>Independent developer built the <strong>Arbitrage Scanner</strong> app. This app costs $5 and is intended to be used as is.</p>
 
   <h2>Data Collection and Usage</h2>
   <p>This app <strong>does not collect, store, or share any personal data</strong> from users.</p>
